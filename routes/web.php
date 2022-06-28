@@ -1,5 +1,7 @@
 <?php
 
+use App\Mail\SendMailUser;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
 
 /*
